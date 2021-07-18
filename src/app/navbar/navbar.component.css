@@ -1,0 +1,12 @@
+header .topo {
+  background-color: #1e94d2;
+  width: 100%;
+  padding: 10px 0;
+}
+
+.logo {
+  display: block;
+  text-align: center;
+  color: white;
+  margin: 0 auto;
+}
